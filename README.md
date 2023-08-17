@@ -1,6 +1,3 @@
-# C-basic-codes
-
-
 📁 C Language Codes
 │
 ├── 📁 Basics
@@ -39,5 +36,14 @@
 │   ├── 📄 Structure_Pointers.c
 │   └── ...
 │
+├── 📁 File_IO
+│   ├── 📄 Reading_Writing_Text.c
+│   ├── 📄 Reading_Writing_Binary.c
+│   └── ...
+│
+├── 📁 Memory_Management
+│   ├── 📄 Dynamic_Memory_Allocation.c
+│   ├── 📄 Memory_Leaks.c
+│   └── ...
 │
 └── ...
