@@ -56,6 +56,7 @@
 │   └── ...
 │
 ├── 📁 Structures
+
 │   ├── 📄 Structure_Basics.c
 
 │   ├── 📄 Nested_Structures.c
@@ -65,9 +66,9 @@
 │   └── ...
 
 │
-├── 📁 File_IO
+├── 📁 Basic Projects
 
-│   ├── 📄 Reading_Writing_Text.c
+│   ├── 📄 File_Writing_Text.c
 
 │   ├── 📄 Reading_Writing_Binary.c
 
